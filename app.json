@@ -1,9 +1,4 @@
 {
   "name": "alpinehelloworld",
-  "description": "heroku/alpinehelloworld",
-  "env": {
-    "CONFIG": {
-      "description": "配置",
-      "value": "123456"}
-  }
+  "description": "heroku/alpinehelloworld"
 }
